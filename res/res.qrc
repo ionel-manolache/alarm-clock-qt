@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>alarm-clock.svg</file>
+        <file>alarm-clock-triggered.svg</file>
+        <file>alarm-timer.svg</file>
+        <file>alarm-clock.png</file>
+        <file>alarm-clock-triggered.png</file>
+        <file>alarm-timer.png</file>
+    </qresource>
+</RCC>
